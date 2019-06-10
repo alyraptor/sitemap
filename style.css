@@ -1,0 +1,27 @@
+table {
+	font-family: arial;
+	margin: 20px 0 0;
+	padding: 0;
+	border-collapse: collapse;
+}
+
+th {
+	width: 120px;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+	background: #ddd;
+	border: 1px solid #555;
+	font-size: 12px;
+}
+
+td {
+	max-width: 160px;
+	height: 30px;
+	margin: 0;
+	padding: 5px;
+	background: #fff;
+	border: 1px solid #555;
+	font-size: 12px;
+	word-wrap: break-word;
+}
